@@ -3,6 +3,7 @@ class Pessoa
     // Atributos 
     public string? Nome;
     public int Idade;
+    public double Altura;
 
     // Método de apresentação
     public void Apresentacao()
