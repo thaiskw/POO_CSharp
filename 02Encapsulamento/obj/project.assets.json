@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\01conceitos\\01conceitos.csproj",
-      "projectName": "01conceitos",
-      "projectPath": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\01conceitos\\01conceitos.csproj",
+      "projectUniqueName": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\02Encapsulamento\\02Encapsulamento.csproj",
+      "projectName": "02Encapsulamento",
+      "projectPath": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\02Encapsulamento\\02Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\WINOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\01conceitos\\obj\\",
+      "outputPath": "C:\\Users\\WINOS\\Desktop\\POO_CSharp\\02Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WINOS\\AppData\\Roaming\\NuGet\\NuGet.Config"

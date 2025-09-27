@@ -1,0 +1,15 @@
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\bin\Debug\net9.0\02Encapsulamento.exe
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\bin\Debug\net9.0\02Encapsulamento.deps.json
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\bin\Debug\net9.0\02Encapsulamento.runtimeconfig.json
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\bin\Debug\net9.0\02Encapsulamento.dll
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\bin\Debug\net9.0\02Encapsulamento.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.AssemblyInfo.cs
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.sourcelink.json
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.dll
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\refint\02Encapsulamento.dll
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\02Encapsulamento.genruntimeconfig.cache
+C:\Users\WINOS\Desktop\POO_CSharp\02Encapsulamento\obj\Debug\net9.0\ref\02Encapsulamento.dll
