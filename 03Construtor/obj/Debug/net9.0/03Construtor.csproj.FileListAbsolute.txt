@@ -1,0 +1,15 @@
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\bin\Debug\net9.0\03Construtor.exe
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\bin\Debug\net9.0\03Construtor.deps.json
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\bin\Debug\net9.0\03Construtor.runtimeconfig.json
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\bin\Debug\net9.0\03Construtor.dll
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\bin\Debug\net9.0\03Construtor.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.AssemblyInfoInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.AssemblyInfo.cs
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.csproj.CoreCompileInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.sourcelink.json
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.dll
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\refint\03Construtor.dll
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\03Construtor.genruntimeconfig.cache
+C:\Users\WINOS\Desktop\POO_CSharp\03Construtor\obj\Debug\net9.0\ref\03Construtor.dll
