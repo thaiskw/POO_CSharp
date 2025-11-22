@@ -1,0 +1,15 @@
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\bin\Debug\net9.0\05Herança.exe
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\bin\Debug\net9.0\05Herança.deps.json
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\bin\Debug\net9.0\05Herança.runtimeconfig.json
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\bin\Debug\net9.0\05Herança.dll
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\bin\Debug\net9.0\05Herança.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.AssemblyInfoInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.AssemblyInfo.cs
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.csproj.CoreCompileInputs.cache
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.sourcelink.json
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.dll
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\refint\05Herança.dll
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.pdb
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\05Herança.genruntimeconfig.cache
+C:\Users\WINOS\Desktop\POO_CSharp\05Herança\obj\Debug\net9.0\ref\05Herança.dll
